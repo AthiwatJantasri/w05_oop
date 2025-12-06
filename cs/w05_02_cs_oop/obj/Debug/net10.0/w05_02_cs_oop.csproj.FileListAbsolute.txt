@@ -1,0 +1,14 @@
+D:\w05_oop\cs\w05_02_cs_oop\bin\Debug\net10.0\w05_02_cs_oop.exe
+D:\w05_oop\cs\w05_02_cs_oop\bin\Debug\net10.0\w05_02_cs_oop.deps.json
+D:\w05_oop\cs\w05_02_cs_oop\bin\Debug\net10.0\w05_02_cs_oop.runtimeconfig.json
+D:\w05_oop\cs\w05_02_cs_oop\bin\Debug\net10.0\w05_02_cs_oop.dll
+D:\w05_oop\cs\w05_02_cs_oop\bin\Debug\net10.0\w05_02_cs_oop.pdb
+D:\w05_oop\cs\w05_02_cs_oop\obj\Debug\net10.0\w05_02_cs_oop.GeneratedMSBuildEditorConfig.editorconfig
+D:\w05_oop\cs\w05_02_cs_oop\obj\Debug\net10.0\w05_02_cs_oop.AssemblyInfoInputs.cache
+D:\w05_oop\cs\w05_02_cs_oop\obj\Debug\net10.0\w05_02_cs_oop.AssemblyInfo.cs
+D:\w05_oop\cs\w05_02_cs_oop\obj\Debug\net10.0\w05_02_cs_oop.csproj.CoreCompileInputs.cache
+D:\w05_oop\cs\w05_02_cs_oop\obj\Debug\net10.0\w05_02_cs_oop.dll
+D:\w05_oop\cs\w05_02_cs_oop\obj\Debug\net10.0\refint\w05_02_cs_oop.dll
+D:\w05_oop\cs\w05_02_cs_oop\obj\Debug\net10.0\w05_02_cs_oop.pdb
+D:\w05_oop\cs\w05_02_cs_oop\obj\Debug\net10.0\w05_02_cs_oop.genruntimeconfig.cache
+D:\w05_oop\cs\w05_02_cs_oop\obj\Debug\net10.0\ref\w05_02_cs_oop.dll
